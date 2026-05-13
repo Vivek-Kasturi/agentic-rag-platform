@@ -1,4 +1,6 @@
-# 🏥 Agentic Medical RAG System
+# 🏥 Agentic RAG System
+Agentic Retrieval-Augmented Generation system with multi-source retrieval, relevance grading, and fallback reasoning pipelines.
+
 
 An Agentic Retrieval-Augmented Generation (RAG) system designed for medical domain question answering using:
 
