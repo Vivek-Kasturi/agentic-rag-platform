@@ -100,8 +100,8 @@ Used for:
 ## ⚙️ How to Run
 
 ```bash
-git clone https://github.com/your-username/agentic-medical-rag-system
-cd agentic-medical-rag-system
+git clone https://github.com/Vivek-Kasturi/agentic-rag-platform
+cd agentic-rag-platform
 pip install -r requirements.txt
 
   ↓ 
